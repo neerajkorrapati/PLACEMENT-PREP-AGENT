@@ -1,5 +1,5 @@
-﻿# PLACEMENT-PREP-AGENT
-I built this project to make interview prep smarter and less overwhelming. You just type in a company and role, and the app does the rest—it scours the web for real interview experiences, stores them in a vector database, and generates targeted practice questions just for you.
+﻿# PLACEMENT-PREP-AGENT(still in progress, learning as i create)
+I am bulding this project to make interview prep smarter and less overwhelming. You just type in a company and role, and the app does the rest—it scours the web for real interview experiences, stores them in a vector database, and generates targeted practice questions just for you.
 
 Key tech behind it:
 
